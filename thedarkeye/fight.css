@@ -1,0 +1,4 @@
+.callout[data-callout="fight"] {
+  --callout-color: 207, 0, 15;
+  --callout-icon: lucide-swords
+}

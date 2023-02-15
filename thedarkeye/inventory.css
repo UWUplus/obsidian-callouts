@@ -1,0 +1,4 @@
+.callout[data-callout="inventory"] {
+  --callout-color: 201, 242, 155;
+  --callout-icon: lucide-backpack
+}

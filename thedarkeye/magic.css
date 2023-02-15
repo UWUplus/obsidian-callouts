@@ -1,0 +1,4 @@
+.callout[data-callout="magic"] {
+  --callout-color: 165, 55, 253;
+  --callout-icon: lucide-wand-2
+}

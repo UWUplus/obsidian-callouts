@@ -1,0 +1,4 @@
+.callout[data-callout="time"] {
+  --callout-color: 249, 105, 14;
+  --callout-icon: lucide-clock
+}

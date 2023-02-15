@@ -1,0 +1,4 @@
+.callout[data-callout="travel"] {
+  --callout-color: 240, 240, 214;
+  --callout-icon: lucide-map
+}

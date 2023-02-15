@@ -1,0 +1,4 @@
+.callout[data-callout="add"] {
+  --callout-color: 174, 168, 211;
+  --callout-icon: lucide-sticky-note;
+}

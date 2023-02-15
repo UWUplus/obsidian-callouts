@@ -1,0 +1,4 @@
+.callout[data-callout="stats"] {
+  --callout-color: 210, 238, 130;
+  --callout-icon: lucide-bar-chart-2
+}

@@ -1,0 +1,4 @@
+.callout[data-callout="skills"] {
+  --callout-color: 44, 130, 201;
+  --callout-icon: lucide-graduation-cap
+}

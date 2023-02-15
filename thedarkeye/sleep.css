@@ -1,0 +1,4 @@
+.callout[data-callout="sleep"] {
+  --callout-color: 44, 130, 201;
+  --callout-icon: lucide-moon;
+}

@@ -1,0 +1,4 @@
+.callout[data-callout="coins"] {
+  --callout-color: 247, 202, 24;
+  --callout-icon: lucide-coins
+}
